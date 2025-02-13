@@ -1,9 +1,7 @@
 # Weekly-Challenges
 Weekly coding problems and solutions.
 
-    <h2>Week - 1</h2>
-</div>
-
+    
 ## Instructions
 
 1. There are a total of **three questions** given.
