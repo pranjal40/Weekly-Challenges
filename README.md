@@ -1,9 +1,7 @@
 # Weekly-Challenges
 Weekly coding problems and solutions.
 
-<div align="center">
-    <h2>Problem Statements</h2>
-    <h3>Week - 1</h3>
+    <h2>Week - 1</h2>
 </div>
 
 ## Instructions
