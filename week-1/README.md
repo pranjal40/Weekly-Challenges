@@ -1,5 +1,3 @@
-# Problem Statements
-
 <div align="center">
     <h2>Problem Statements</h2>
     <h3>Week - 1</h3>
