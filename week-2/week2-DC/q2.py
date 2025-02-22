@@ -1,2 +1,7 @@
 sen=str(input("Enter the string:"))
-print("Number of spaces in the string:",sen.count(" "))
+len=len(sen)
+count=0
+for i in range(len):
+    if (sen[i]==" "):
+        count+=1
+print(count)        
