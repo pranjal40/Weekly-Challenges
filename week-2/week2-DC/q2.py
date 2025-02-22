@@ -4,4 +4,4 @@ count=0
 for i in range(len):
     if (sen[i]==" "):
         count+=1
-print(count)        
+print("Number of spaces in the string:",count)        
