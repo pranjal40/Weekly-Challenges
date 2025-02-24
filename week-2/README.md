@@ -1,11 +1,11 @@
 <div align="center">
     <h2>Problem Statements</h2>
-    <h3>Week - 2</h3>
+    <h3>Week - 3</h3>
 </div>
 
 ## Instructions
 
-1. There are a total of **three questions** given.
+1. There are a total of **four questions** given.
 2. Points are assigned as follows:
     <br>
     1. If you post all your solutions: 3 points (each question).
@@ -19,52 +19,33 @@
 
 ## Problem Statements
 
-### Q.1) Library Book Management System
-A library wants an automated system to track overdue books and calculate late fines.
-
-#### Rules:
-
-1. The library allows users to borrow books for 14 days.
-2. If a book is returned late, a fine is applied:
-    - ₹5 per day for the first 7 days after the due date.
-    - ₹10 per day beyond 7 days after the due date.
-3. If the fine exceeds ₹100, a 10% penalty is added to the total fine.
-4. The program should take the return date as input and calculate the fine accordingly.
+### Q.1) Check if a number is Palindrome 
+A number is said to be palindrome if the reverse of the number is equal to the original number.<br>
+Write a program that checks whether a number entered by the user is a valid palindrome.
 
 #### Examples:
 ```plaintext
 Example 1:
-Enter the number of days after the due date: 5  
-Fine to be paid: ₹25 
+Enter a number: 323
+323 is a palindrome number. 
 ```
 
 ```plaintext
 Example 2:
-Enter the number of days after the due date: 22  
-Fine before penalty: ₹185
-Final Fine after 10% penalty: ₹203.5
+Enter a number : 2268
+2268 is not a palindrome number.
 ```
-
 ---
+### Q.2) Reverse a String
 
-### Q.2) Space Counter
-
-Take input of the string from the user. Count the total number of spaces in the input string.
-
+Write a program that takes a string input from the user and prints its reverse.
 
 #### Examples:
 ```plaintext
 Example 1:
-Enter the string: We are members of the SuperSyntax group.
-Number of spaces in the string: 6
+Enter the string: Hello!
+Reversed string: !olleH
 ```
-
-```plaintext
-Example 2:
-Enter the string: We  are   members     of theSuperSyntax    group  .
-Number of spaces in the string: 17
-```
-
 ---
 
 ### Q.3) Geometric Progression
