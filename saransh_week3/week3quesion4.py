@@ -1,0 +1,5 @@
+text = str(input("Enter a string: "))
+upper = "".join(c for c in text if c.isupper())  
+lower = "".join(c for c in text if c.islower())  
+print( upper, end = '\n')
+print( lower)  
