@@ -12,7 +12,7 @@ public class StringReverse {
         int i = 0;
         while (i < input.length()) {
             System.out.print(input.charAt(input.length() - i - 1));
-
+             i++;
         }
         System.out.println(" ");
         sc.close();
