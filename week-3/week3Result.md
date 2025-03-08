@@ -1,0 +1,53 @@
+<div align="center">
+    <h2>Results for Week 3 solution code submissions</h2>
+</div>
+
+<ul>
+	<li>Akshita Banne- 0 points</li>
+	<li>Dev Chhiroliya - 4 points</li>
+	<li>Kratika Sharma- 6 points</li>
+	<li>Priyanshi Kanoujiya- 4 points</li>
+	<li>Pushkar Pandey- 2 points</li>
+	<li>Saransh Jain - 6 points</li>
+	<li>Vaishnavi Rajput- 4 points</li>
+</ul>
+
+<p><b>Details:-</b></p>
+<ul>
+	<li>Akshita Banne<br>
+		Incorrect/Invalid solution codes to all problem statements<br>
+		Use of functions for direct solving is not allowed.
+	</li>
+
+	<li>Dev Chhiroliya<br>
+		Two correct solution codes submitted on time.
+		Incorrect solution codes to problem statement 3.<br>
+	</li>
+
+	<li>Kratika Sharma<br>
+		Three correct solution codes submitted on time.
+	</li>
+
+	<li>Priyanshi Kanoujiya<br>
+		Two correct solution code submitted on time.
+	</li>
+
+	<li>Pushkar Pandey<br>
+		One correct solution code submitted on time.<br>
+        	Incorrect/Invalid solution code to problem statements 2 and 3.
+	</li>
+
+	<li>Saransh Jain<br>
+		Three correct solution codes submitted on time.<br>
+		Incorrect solution code to problem statement 4.<br.
+		Use of functions for direct solving is not allowed.
+	</li>
+
+	<li>Vaishnavi Rajput<br>
+		Two correct solution codes submitted on time.<br>
+		Incorrect/Invalid solution code submitted to problem statements 2 and 4.<br>
+		Use of functions for direct solving is not allowed.
+	</li>
+</ul>
+
+<div align= "center"> All the best for week-4<br> Keep the good work up and work on your week points</div>
