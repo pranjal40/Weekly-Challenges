@@ -12,9 +12,17 @@ public class StringReverse {
         int i = 0;
         while (i < input.length()) {
             System.out.print(input.charAt(input.length() - i - 1));
+<<<<<<< HEAD
 
+=======
+             i++;
+>>>>>>> origin/main
         }
         System.out.println(" ");
         sc.close();
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

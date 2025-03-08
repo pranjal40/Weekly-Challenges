@@ -26,7 +26,11 @@ public static void main(String [] args){
 
 Scanner sc= new Scanner(System.in);
 System.out.print("Enter a string:");
+<<<<<<< HEAD
 String input=  sc.next();
+=======
+String input=  sc.nextLine();
+>>>>>>> origin/main
 
 UpperCase(input);
 System.out.println();
@@ -34,4 +38,8 @@ LowerCase(input);
 
 sc.close();
 }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main
