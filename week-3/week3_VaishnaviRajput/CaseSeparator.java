@@ -26,7 +26,7 @@ public static void main(String [] args){
 
 Scanner sc= new Scanner(System.in);
 System.out.print("Enter a string:");
-String input=  sc.next();
+String input=  sc.nextLine();
 
 UpperCase(input);
 System.out.println();
