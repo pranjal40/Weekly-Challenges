@@ -1,13 +1,11 @@
 # Weekly-Challenges
 Weekly coding problems and solutions.
 
-<<<<<<< HEAD
     
 ## Instructions
 
 1. There are a total of **three questions** given.
-2. Points are assigned as follows:
-=======
+
 <h2>
 <div align="centre">
 	<b>DO NOT USE BUILT IN FUNCTIONS FOR SOLVING THE PROBLEM DIRECTLY, USE THEM JUST AS HELPING TOOLS.<b>
@@ -15,7 +13,7 @@ Weekly coding problems and solutions.
 </h2>
 
 <b>Points are assigned as follows:</b>
->>>>>>> origin/main
+
     <br>
     1. If you post all your solutions on time: 3 points (each question).
     2. Else: 2 points (each question).
