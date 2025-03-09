@@ -12,7 +12,7 @@ public class LibraryBookManagementSys {
       int fine = 5 * days;
       System.out.println("Fine to be paid: Rs." + fine);
     } else {
-      int fine = 10 * days;
+      int fine =( 5*7)+(10 * (days-7));
       if (fine > 100) {
         penalty = (fine + fine / 10);
       } else {
