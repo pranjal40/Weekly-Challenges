@@ -9,7 +9,7 @@
 	<li>Priyanshi Kanoujiya- 4 points</li>
 	<li>Pushkar Pandey- 2 points</li>
 	<li>Saransh Jain - 6 points</li>
-	<li>Vaishnavi Rajput- 4 points</li>
+	<li>Vaishnavi Rajput- 5 points</li>
 </ul>
 
 <p><b>Details:-</b></p>
@@ -45,7 +45,8 @@
 
 	<li>Vaishnavi Rajput<br>
 		Two correct solution codes submitted on time.<br>
-		Incorrect/Invalid solution code submitted to problem statements 2 and 4.<br>
+		Incorrect/Invalid solution code submitted to problem statement 4.<br>
+		one correct solution code submitted late from schedule <br>
 		Use of functions for direct solving is not allowed.
 	</li>
 </ul>
