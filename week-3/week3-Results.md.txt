@@ -45,8 +45,13 @@
 
 	<li>Vaishnavi Rajput<br>
 		Two correct solution codes submitted on time.<br>
+<<<<<<< HEAD:week-3/week3Result.md
 		Incorrect/Invalid solution code submitted to problem statement 4.<br>
 		one correct solution code submitted late from schedule <br>
+=======
+		All correct solution codes submitted late from schedule.
+		Incorrect/Invalid solution code submitted to problem statements 2 and 4.<br>
+>>>>>>> 97ed52f6f9fb238fefbd949141ec0fc0abe180b9:week-3/week3-Results.md.txt
 		Use of functions for direct solving is not allowed.
 	</li>
 </ul>
