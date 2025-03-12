@@ -45,6 +45,7 @@
 
 	<li>Vaishnavi Rajput<br>
 		Two correct solution codes submitted on time.<br>
+		All correct solution codes submitted late from schedule.
 		Incorrect/Invalid solution code submitted to problem statements 2 and 4.<br>
 		Use of functions for direct solving is not allowed.
 	</li>
