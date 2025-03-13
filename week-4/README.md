@@ -126,6 +126,27 @@ Enter a number: 3528
 ```
 ---
 
+### Q.5) Pattern Printer
+
+Write a program that takes user input for the height of a right-indented half pyramid and prints the half pyramid of stars.
+
+#### Examples:
+```plaintext
+Example 1:
+Enter the desired height of pyramid: 5
+    *
+   **
+  ***
+ ****
+*****
+```
+Example 2:
+Enter the desired height of pyramid: 3
+    *
+   **
+  ***
+```
+---
 
 ## 🔥 All the best!
 
