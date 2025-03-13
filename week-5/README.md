@@ -15,7 +15,6 @@
 4. If you face any problems while solving any question, write your **issues in a README file** and include it in your folder.
 5. **Do not use Google or ChatGPT** to solve the problems.
 
----
 <h2>
 <div align="centre">
 	<b>DO NOT USE BUILT IN FUNCTIONS FOR SOLVING THE PROBLEM DIRECTLY, USE THEM JUST AS HELPING TOOLS.<b>
@@ -34,7 +33,7 @@ Example 1:
 Enter a number: 243
 243 is not a special number.
 ```
-
+```plaintext
 Example 2:
 Enter a number: 145
 145 is a special number.
@@ -76,6 +75,7 @@ Example 1:
 Enter a string: Hello world, I am a machine.
 Number of words ending with a vowel: 4
 ```
+```plaintext
 Example 2:
 Enter a string: Hello friend. Today    is a wonderful day, to travel with you!
 Number of words ending with a vowel: 4
@@ -95,6 +95,7 @@ Enter the desired height of pyramid: 5
  *******
 *********
 ```
+```plaintext
 Example 2:
 Enter the desired height of pyramid: 3
     *

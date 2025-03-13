@@ -4,6 +4,7 @@
 
 <ul>
 	<li>Akshita Banne- 0 points</li>
+	<li>Bhumi Agrawal - 2 points </li>
 	<li>Dev Chhiroliya - 4 points</li>
 	<li>Kratika Sharma- 6 points</li>
 	<li>Priyanshi Kanoujiya- 4 points</li>
@@ -17,6 +18,10 @@
 	<li>Akshita Banne<br>
 		Incorrect/Invalid solution codes to all problem statements<br>
 		Use of functions for direct solving is not allowed.
+	</li>
+
+	<li>Bhumi Agrawal<br>
+		Two correct solution codes submitted late from schedule.
 	</li>
 
 	<li>Dev Chhiroliya<br>
