@@ -1,0 +1,46 @@
+<div align="center">
+    <h2>Results for Week 5 solution code submissions</h2>
+</div>
+
+<ul>
+	<li>Akshita Banne - 2 points </li>
+	<li>Kalpana Dhaker -  4 points</li>
+	<li>Kratika Sharma - 4 points</li>
+	<li>Pragya Shrivastava - 4 points</li>
+	<li>Priyanshi Kanoujiya - 4 points </li>
+	<li>Pushkar Pandey-  12 points</li>
+	<li>Vaishnavi Rajput- 12 points</li>
+</ul>
+
+<p><b>Details:-</b></p>
+<ul>
+	<li>Akshita Banne<br>
+		One correct solution codes submitted on time.
+	</li>
+	
+	<li>Kalpana Dhaker<br>
+		Two correct solution codes submitted on time.
+	</li>
+
+	<li>Kratika Sharma<br>
+		Two correct solution codes submitted on time.
+	</li>
+	
+	<li>Pragya Shrivastava<br>
+		Two correct solution codes submitted on time.
+	</li>
+
+	<li>Priyanshi Kanoujiya<br>
+		Two correct solution codes submitted on time.
+	</li>
+
+	<li>Pushkar Pandey<br>
+		All correct solution codes submitted on time.
+	</li>
+
+	<li>Vaishnavi Rajput<br>
+		All correct solution codes submitted on time.
+	</li>
+</ul>
+
+<div align= "center"> All the best for week-6<br> Keep up the good work and work on your week points</div>
