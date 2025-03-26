@@ -1,0 +1,55 @@
+<div align="center">
+    <h2>Results for Week 4 solution code submissions</h2>
+</div>
+
+<ul>
+	<li>Dev Chhiroliya - 2 points</li>
+	<li>Gayatri Kehri - 2 points</li>
+	<li>Kalpana Dhaker - 2 points</li>
+	<li>Pragya Shrivastava - 2 points</li>
+	<li>Pushkar Pandey- 2 points</li>
+	<li>Saransh Jain - 2 points</li>
+	<li>Vaishnavi Rajput- 6 points</li>
+</ul>
+
+<p><b>Details:-</b></p>
+<ul>
+	
+	<li>Dev Chhiroliya<br>
+		One correct solution code submitted on time.<br>
+		Incorrect solution codes to problem statements 2, 4 and 5.<br>
+		Incomplete solution code to problem statement 1.
+	</li>
+	
+	<li>Gayatri Kehri<br>
+		One correct solution code submitted on time.<br>
+		Incorrect solution code to problem statement 5.<br>
+	</li>
+
+	<li>Kalpana Dhaker<br>
+		One correct solution code submitted on time.<br>
+	</li>
+	
+	<li>Prgya Shrivastava<br>
+		One correct solution code submitted on time.<br>
+		Incorrect solution code to problem statement 2.<br>
+	</li>
+
+	<li>Pushkar Pandey<br>
+		One correct solution code submitted on time.<br>
+        	Incorrect solution codes to problem statements 2 and 3.
+	</li>
+
+	<li>Saransh Jain<br>
+		One correct solution code submitted on time.<br>
+		Incorrect solution code to problem statement 2 and 3.<br>
+		Incomplete solution code to problem statement 4.
+	</li>
+
+	<li>Vaishnavi Rajput<br>
+		Three correct solution codes submitted on time.<br>
+		Incorrect solution codes submitted to problem statements 2 and 5.<br>
+	</li>
+</ul>
+
+<div align= "center"> All the best for week-5<br> Keep up the good work and work on your week points</div>
