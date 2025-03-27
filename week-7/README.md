@@ -75,7 +75,7 @@ Assumptions:-
 1. The array contains the two numbers whose sum results to the input number.
 2. There exists only one such pair in the array whose sum equals the input number.
 3. No two numbers are repeated in the array.
-4. Set the array size of your choice(should be atleast 4).
+4. Set the array size of your choice(should be at least 4).
 
 #### Examples:
 ```plaintext
@@ -92,6 +92,8 @@ Output:
 4, 5
 ```
 ```plaintext
+
+Example 2:
 Enter an array of four numbers:-
 9
 5
