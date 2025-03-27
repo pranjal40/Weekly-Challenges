@@ -11,9 +11,16 @@ public class charString {
         System.out.print("Enter position in the string:");
         int position=sc.nextInt();
 
+        if(position>input.length()){
+          System.out.println("Invalid position! Character can only be added in string not outside it.");
+          sc.close();
+          return;
+        }
+
         StringBuilder output=new StringBuilder();
         char latter=input.charAt(position+1);
       char presentChar= input.charAt(position);
+
       if(Character.isAlphabetic(presentChar)){
         System.out.println("Insertion of special character is not allowed in between the letters of a word");
         sc.close();     
@@ -27,9 +34,11 @@ public class charString {
             latter=(char)(latter-32);
             output.setCharAt(position+1,latter);
         }
+
         output.replace(position,position+1,addChar);
         output.insert(position+1,' ');
       }
+      
       System.out.println("Output:");
       System.out.println(output);
       sc.close();
