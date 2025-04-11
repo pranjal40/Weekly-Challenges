@@ -33,6 +33,7 @@ Enter the number for which the sum is to be found: 25
 Output:
 12, 13
 '''
+
 arr = []
 start = 0
 end = 0
