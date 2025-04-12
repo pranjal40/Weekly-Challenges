@@ -9,13 +9,13 @@ public class numPyramid {
 
         for(int i=1;i<=input;i++){
             for(int j=0;j<input-i;j++){
-                System.out.print("   ");
+                System.out.print("   ");//spaces pattern
             }
             for(int k=i;k>=1;k--){
-                System.out.printf("%3d",k);
+                System.out.printf("%3d",k);//decreasing number pattern of half pyramid
             }
             for(int r=2;r<=i;r++){
-                System.out.printf("%3d",r);
+                System.out.printf("%3d",r);//increasing number pattern for other half triangle
             }
             System.out.println();
         }

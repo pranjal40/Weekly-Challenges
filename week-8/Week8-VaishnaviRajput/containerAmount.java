@@ -5,12 +5,12 @@ public class containerAmount{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Input: height = ");
-        String input=sc.nextLine();
+        String input=sc.nextLine();//input string format
 
-        input=input.replaceAll("[^0-9]","");
-        int[] height=new int[input.length()];
+        input=input.replaceAll("[^0-9]","");//removing all characters other than digits
+        int[] height=new int[input.length()];//array to perform numeric operation
         for(int i=0;i<input.length();i++){
-            if(Character.isDigit(input.charAt(i))){
+            if(Character.isDigit(input.charAt(i))){//check to see that only digits to appended in array
             height[i]=Integer.parseInt(String.valueOf(input.charAt(i)));
             }
             else{
@@ -31,8 +31,8 @@ public class containerAmount{
                 else{
                     min=height[i];
                 }
-              int  amount_water=min*(j-i);
-              if(amount_water>max_amount){
+              int  amount_water=min*(j-i);// calculate water amount between wall
+              if(amount_water>max_amount){//check to update the max amount 
                 max_amount=amount_water;
               }
             }
