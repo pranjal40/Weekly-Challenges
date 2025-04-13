@@ -24,5 +24,5 @@ class Container:
                 j = j - 1
         return area
 
-c = Container()
-print(c.tank([2, 3, 10, 5, 7, 8, 9]))
+#c = Container()
+#print(c.tank( [4, 3, 2, 1, 4]))

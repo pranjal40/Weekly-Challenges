@@ -12,9 +12,9 @@ class Sort:
                 if arr[i] >= arr[j]:
                     arr[j],arr[i] = arr[i],arr[j]
         return arr
-# arr = [5, 2, 9, 1, 5, 6]
-# c = Sort()
-# print(c.sorting(arr))
+#arr = [5, 2, 9, 1, 5, 6]
+#c = Sort()
+#print(c.sorting(arr))
 #output[1, 2, 5, 5, 6, 9]
 
             

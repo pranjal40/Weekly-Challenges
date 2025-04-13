@@ -22,7 +22,7 @@ class Pattern:
 
             print('\n') 
 
-p = Pattern()
-p.pyramid(4)
+#p = Pattern()
+#p.pyramid(4)
 
 
