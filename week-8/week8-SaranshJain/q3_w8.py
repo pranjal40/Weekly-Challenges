@@ -23,6 +23,8 @@ class Container:
                     area = current_area
                 j = j - 1
         return area
+    
+arr = list(map(int, input("Enter elements: ").split(' ')))
 
-#c = Container()
-#print(c.tank( [4, 3, 2, 1, 4]))
+c = Container()
+print(c.tank())

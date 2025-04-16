@@ -21,8 +21,8 @@ class Pattern:
                 print(l, end=" ")
 
             print('\n') 
-
-#p = Pattern()
-#p.pyramid(4)
+n = int(input('enter n'))
+p = Pattern()
+p.pyramid(n)
 
 
