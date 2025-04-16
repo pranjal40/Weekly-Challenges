@@ -27,4 +27,4 @@ class Container:
 arr = list(map(int, input("Enter elements: ").split(' ')))
 
 c = Container()
-print(c.tank())
+print(c.tank(arr))
